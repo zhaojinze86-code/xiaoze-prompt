@@ -1,0 +1,6 @@
+interface:
+  display_name: "Xiaoze Prompt"
+  short_description: "真人短剧分镜、15秒审核与Seedance提示词制作"
+  default_prompt: "Use $xiaoze-prompt to analyze my script and produce timed Seedance 2.0 prompts for LibTV."
+policy:
+  allow_implicit_invocation: true
